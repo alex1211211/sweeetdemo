@@ -1,2 +1,7 @@
 # sweeetdemo
 THIS IS FIRST GIT RREPOSITORY
+
+AUTHOR : ALEX SHARMA
+
+
+
